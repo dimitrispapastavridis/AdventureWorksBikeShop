@@ -7,6 +7,8 @@ This project is based on the [Microsoft Power BI - Up & Running with Power BI De
 - Advanced DAX measures and calculated columns.
 - Slicers and drill-through functionality for in-depth data exploration.
 
+## 📊 Dashboard Preview
+
 ![Exec_Dashboard](https://github.com/user-attachments/assets/b3191f9b-8cfa-470e-9e83-70fa9bd88742)
 
 ![Map](https://github.com/user-attachments/assets/a8de7b62-558b-460d-a752-19f93ecb4d72)
