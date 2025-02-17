@@ -7,8 +7,6 @@ This project is based on the [Microsoft Power BI - Up & Running with Power BI De
 - Advanced DAX measures and calculated columns.
 - Slicers and drill-through functionality for in-depth data exploration.
 
-<iframe title="AdventureWorks Report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZjA1OGU3MjQtYTk4NC00NzJjLWIxMWItMzQ1NTgxOGJiOGUzIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9" frameborder="0" allowFullScreen="true"></iframe>
-
 ## 📊 Dashboard Preview
 
 ![Exec_Dashboard](https://github.com/user-attachments/assets/b3191f9b-8cfa-470e-9e83-70fa9bd88742)
